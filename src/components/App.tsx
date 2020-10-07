@@ -4,6 +4,8 @@ import TodoContext from '../contexts/TodoContext';
 import Navbar from './Navbar';
 import TodoList from './TodoList';
 
+//npm install react-router-dom @types/react-router-dom
+
 const App = () => { 
     return(
         <TodoContext>
